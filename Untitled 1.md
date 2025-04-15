@@ -1,15 +1,12 @@
-```dg-audio-note 
-title: Audio Note - 2025-04-15T04-38-38.493Z
-audioSrc: /audio/AudioNote-2025-04-15T04-38-38.493Z.webm
-transcript: Test 1 2 3.
-```
-```Audio Note
+
+```dg-audio-note
 Tite: DND Session 2
-dg-audio-note
+audioSrc: /audio/Beets
 Author: Mary-Anne
 Transcript: But. As you all
 liveUpdate: true
 ```
+
 
 [Mary-Anne] 00:01
 But. As you all are approaching a town, you see the gates, which are in front of you. But you also. Um. You also see a lake. And. That's, you know, ways off? Like? Like East, you see a figure heading towards the lake and he has. What looks like he's carrying a sack? So those are the two things as you are emerging through the woods after fighting your scarecrow and fighting the willowisp. Um. You see a figure heading towards the lake and? The town Gates with its bloody dead wolf heads hanging from Pikes.
