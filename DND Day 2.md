@@ -1,6 +1,6 @@
 ```audio-note
 audio: audio/Beets.m4a
-transcript: audio/Beets.txt
+transcript: audio/Beets
 title: Beets
 
 ```
