@@ -1,8 +1,7 @@
 
 ```dg-audio-note
-Tite: DND Session 2
-audioSrc: /audio/Beets
-Author: Mary-Anne
+tite: DND Session 2
+audioSrc: /audio/Beets.m4a
 Transcript: But. As you all
 liveUpdate: true
 ```
