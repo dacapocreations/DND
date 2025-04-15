@@ -24,28 +24,47 @@ Yeah.
 [Mary-Anne]
 The figure is not walking very steadily. If you all want, roll perception checks to see if you can gather any more details about the figure. He's carrying the...
 
+[Hannah]
+I'll do a perception check.
 
-Would you say?
+[Mary-Anne]
+Would you say, Hannah?
 
+[Hannah]
+I'll do a perception check. 
 
-Speaker 2   01:28
-I'll do a perception. Okay, cool.
+[Mary-Anne]
+Okay, cool.
 
+[Andrew]
+Man, I ain't seeing shit.
 
-Speaker 1   01:34
-Shit.
+[Hannah]
+23!
 
+[Andrew]
+Yeah, she got a 23. 
 
-Speaker 2   01:36
-Yeah, she got a 23. You got a
+[Mary-Anne]
+You got a 23?
 
+[Hannah]
+Yeah.
 
-Speaker 1   01:38
-23. Yeah, oh, very nice. Okay. The sack looks like it's moving. Oh, like, there's some. There's some twitching in there in the sack. So, would you all as a party like to approach there's Gates to continue on, or would you like to divert your party and head towards the man carrying a sack that looks like it might be twitching. Well,
+[Mary-Anne]
+Oh, very nice! Okay - the sack looks like it's moving. 
 
+[Jesse]
+Oh...
 
-Speaker 2   02:04
-What did you need to roll? Because, yeah, exactly. I
+[Andrew]
+Oh, dear...
+
+[Mary-Anne]
+Like, there's some - there's some twitching in there - in the sack. So, would you all as a party like to approach there's Gates to continue on, or would you like to divert your party and head towards the man carrying a sack that looks like it might be twitching?
+
+[Andrew]
+Well, what did you need to roll? Because, yeah, exactly. I
 
 
 Speaker 1   02:08
