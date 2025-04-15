@@ -3,35 +3,26 @@ audio: audio/Beets.m4a
 title: Beets
 
 ```
-Speaker 1 
-00:01 -> 01:00
-But. As you all are approaching a town, you see the gates, which are in front of you. But you also. Um. You also see a lake. And. That's, you know, ways off? Like? Like East, you see a figure heading towards the lake and he has. What looks like he's carrying a sack? So those are the two things as you are emerging through the woods after fighting your scarecrow and fighting the willowisp. Um. You see a figure heading towards the lake and? The town Gates with its bloody dead wolf heads hanging from Pikes.
+[Mary-Anne]
+As you all are approaching a town, you see the gates which are in front of you - but, you also see a lake that is a ways off far East. You see a figure heading towards the lake and he has what looks like he's carrying a sack. So those are the two things as you are emerging through the woods after fighting your scarecrow and fighting the willowisp. You see a figure heading towards the lake and the town gates with its bloody dead wolf heads hanging from pikes.
 
-Mmm
+[Jesse]
+Hmmm.
 
+[Andrew]
+Based.
 
-Speaker 2   01:00
-Paste.
+[Huth]
+Ominous, but...
 
+[Andrew]
+Spooky.
 
-Speaker 1   01:02
-Ominous,
-
-
-Speaker 2   01:03
-But
-
-
-Speaker 1   01:06
-Spooky,
-
-
-Speaker 2   01:07
+[Huth]
 Yeah.
 
-
-Speaker 1   01:08
-The figure is not walking very steadily. If you all want to roll perception checks to see if you can gather any more details about the figure.
+[Mary-Anne]
+The figure is not walking very steadily. If you all want, roll perception checks to see if you can gather any more details about the figure. He's carrying the...
 
 
 Would you say?
