@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "audio-Beets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "audio-Beets"
             }
           },
           {
@@ -261,11 +261,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f8d005ecfe1ebb9",
+  "active": "a8bc16fb123252ab",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "audio-Beets.md",
     "audio/Beets.m4a",
     "Beet-20--20Friday-20at-2021-06.md",
-    "Untitled 1.md",
     "Untitled.md",
     "audio/Untitled.md",
     "audio/AudioNote-2025-04-15T03-50-05.948Z.webm",

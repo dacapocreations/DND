@@ -7,7 +7,12 @@
   "_debugMode": false,
   "_DGApiKey": "26b793eee9fc91968ddb574480ec8181ae481bea",
   "_DGTranscriptFolder": "transcripts/",
-  "positions": {},
+  "positions": {
+    "http://localhost/_capacitor_file_/storage/emulated/0/Documents/DND_Campaign/audio/Beets.m4a#t=00:00": [
+      17.46482,
+      1744691013994
+    ]
+  },
   "uuid": "ee6e-d3e8-b24c-2f91",
-  "counts": 1
+  "counts": 2
 }
