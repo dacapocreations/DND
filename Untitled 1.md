@@ -4,7 +4,11 @@ audioSrc: /audio/AudioNote-2025-04-15T04-38-38.493Z.webm
 transcript: Test 1 2 3.
 ```
 ```Audio Note
-
+Tite: DND Session 2
+dg-audio-note
+Author: Mary-Anne
+Transcript: But. As you all
+liveUpdate: true
 ```
 
 [Mary-Anne] 00:01
