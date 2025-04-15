@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "b11f13a9fd381787",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "Beet - Friday at 21-06.m4a"
-              },
-              "icon": "lucide-file-audio",
-              "title": "Beet - Friday at 21-06"
-            }
-          },
-          {
             "id": "98ed60ec81b1cab5",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "68668f8562345c2c",
@@ -273,7 +261,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b11f13a9fd381787",
+  "active": "0f8d005ecfe1ebb9",
   "lastOpenFiles": [
     "audio/Untitled.md",
     "Beet - Friday at 21-06.m4a",
